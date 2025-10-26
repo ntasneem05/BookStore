@@ -1,1 +1,1 @@
-# BookStore-Java-
+This is an pplication developed using JavaFX and Object-Oriented Programming (OOP) principles to simulate a bookstore management system. The project was built as part of a course final project to demonstrate practical implementation of software design and UML modeling.
